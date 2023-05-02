@@ -1,5 +1,5 @@
 # Cosmetics-Analysis
-(https://img.freepik.com/free-photo/foundation-advertising-with-containers-arrangement_23-2149511274.jpg)
+![My Image](cosmetics.jpg)
 Objective-
 Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation. As an aspiring data analyst who's interested in skincare and cosmetics , I would like to utilize my skills in finding out what I have been putting on my face for a few  years and what kind of chemicals I have been exposed to. Specifically, my goal is to explore the ingredients used in those products and to make a recommendation model based on the ingredients.
 

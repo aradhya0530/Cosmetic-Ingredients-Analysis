@@ -7,4 +7,4 @@ Whenever I want to try a new cosmetic item, it's so difficult to choose. It's ac
 
 
 Content-
-We are going to create a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. 
+We are going to create a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, I will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh. 
